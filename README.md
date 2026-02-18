@@ -64,7 +64,8 @@ Expoente: 10
 ```
 .
 ├── calculadora.py   # Código principal da calculadora
-└── README.md        # Este arquivo
+├── README.md        # Este arquivo
+└── .gitignore
 ```
 
 ## Licença
